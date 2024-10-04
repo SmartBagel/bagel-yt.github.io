@@ -1,33 +1,33 @@
 {
   "files": {
     "main.css": "/bagel-yt.github.io/static/css/main.3fc8ac9a.css",
-    "main.js": "/bagel-yt.github.io/static/js/main.33f0af12.js",
-    "static/js/818.737f2cf7.chunk.js": "/bagel-yt.github.io/static/js/818.737f2cf7.chunk.js",
-    "static/js/996.8d309f5b.chunk.js": "/bagel-yt.github.io/static/js/996.8d309f5b.chunk.js",
-    "static/js/807.7f78874b.chunk.js": "/bagel-yt.github.io/static/js/807.7f78874b.chunk.js",
+    "main.js": "/bagel-yt.github.io/static/js/main.1135f628.js",
+    "static/js/818.2dd39266.chunk.js": "/bagel-yt.github.io/static/js/818.2dd39266.chunk.js",
+    "static/js/996.a91aa580.chunk.js": "/bagel-yt.github.io/static/js/996.a91aa580.chunk.js",
+    "static/js/807.3f937887.chunk.js": "/bagel-yt.github.io/static/js/807.3f937887.chunk.js",
     "static/js/900.815301c4.chunk.js": "/bagel-yt.github.io/static/js/900.815301c4.chunk.js",
-    "static/js/899.57d216c4.chunk.js": "/bagel-yt.github.io/static/js/899.57d216c4.chunk.js",
-    "static/js/295.e079de0d.chunk.js": "/bagel-yt.github.io/static/js/295.e079de0d.chunk.js",
-    "static/js/362.f001f188.chunk.js": "/bagel-yt.github.io/static/js/362.f001f188.chunk.js",
+    "static/js/899.3984e162.chunk.js": "/bagel-yt.github.io/static/js/899.3984e162.chunk.js",
+    "static/js/295.44075d83.chunk.js": "/bagel-yt.github.io/static/js/295.44075d83.chunk.js",
+    "static/js/362.7f6181a5.chunk.js": "/bagel-yt.github.io/static/js/362.7f6181a5.chunk.js",
     "static/js/147.48198676.chunk.js": "/bagel-yt.github.io/static/js/147.48198676.chunk.js",
     "static/js/27.1c76c23a.chunk.js": "/bagel-yt.github.io/static/js/27.1c76c23a.chunk.js",
     "static/js/574.d0221ff1.chunk.js": "/bagel-yt.github.io/static/js/574.d0221ff1.chunk.js",
     "static/media/about.md": "/bagel-yt.github.io/static/media/about.f68eaee7780c4383f6bf.md",
     "index.html": "/bagel-yt.github.io/index.html",
     "main.3fc8ac9a.css.map": "/bagel-yt.github.io/static/css/main.3fc8ac9a.css.map",
-    "main.33f0af12.js.map": "/bagel-yt.github.io/static/js/main.33f0af12.js.map",
-    "818.737f2cf7.chunk.js.map": "/bagel-yt.github.io/static/js/818.737f2cf7.chunk.js.map",
-    "996.8d309f5b.chunk.js.map": "/bagel-yt.github.io/static/js/996.8d309f5b.chunk.js.map",
-    "807.7f78874b.chunk.js.map": "/bagel-yt.github.io/static/js/807.7f78874b.chunk.js.map",
+    "main.1135f628.js.map": "/bagel-yt.github.io/static/js/main.1135f628.js.map",
+    "818.2dd39266.chunk.js.map": "/bagel-yt.github.io/static/js/818.2dd39266.chunk.js.map",
+    "996.a91aa580.chunk.js.map": "/bagel-yt.github.io/static/js/996.a91aa580.chunk.js.map",
+    "807.3f937887.chunk.js.map": "/bagel-yt.github.io/static/js/807.3f937887.chunk.js.map",
     "900.815301c4.chunk.js.map": "/bagel-yt.github.io/static/js/900.815301c4.chunk.js.map",
-    "899.57d216c4.chunk.js.map": "/bagel-yt.github.io/static/js/899.57d216c4.chunk.js.map",
-    "295.e079de0d.chunk.js.map": "/bagel-yt.github.io/static/js/295.e079de0d.chunk.js.map",
-    "362.f001f188.chunk.js.map": "/bagel-yt.github.io/static/js/362.f001f188.chunk.js.map",
+    "899.3984e162.chunk.js.map": "/bagel-yt.github.io/static/js/899.3984e162.chunk.js.map",
+    "295.44075d83.chunk.js.map": "/bagel-yt.github.io/static/js/295.44075d83.chunk.js.map",
+    "362.7f6181a5.chunk.js.map": "/bagel-yt.github.io/static/js/362.7f6181a5.chunk.js.map",
     "147.48198676.chunk.js.map": "/bagel-yt.github.io/static/js/147.48198676.chunk.js.map",
     "574.d0221ff1.chunk.js.map": "/bagel-yt.github.io/static/js/574.d0221ff1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fc8ac9a.css",
-    "static/js/main.33f0af12.js"
+    "static/js/main.1135f628.js"
   ]
 }
